@@ -1,0 +1,19 @@
+body{
+
+  padding: 25px; background:gray;
+
+}
+
+.title {
+
+	color: #5C6AC4; background:red; text-align: center;
+
+}
+
+.a {width: 90%; height: 250px; background: rgba(23, 34, 200, 0); border: 20px solid green; margin: auto;}
+
+.b {width:85%; height:85%; background: rgba(230, 235, 10, 0); border: 10px solid purple; margin:10px auto;}
+
+* {box-sizing: border-box}
+
+img {width: 95%; height: 95%; margin: 3px auto;}
